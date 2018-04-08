@@ -1,0 +1,3 @@
+# user acceptance test env resources
+server:
+  port: 8888
